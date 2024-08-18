@@ -1,0 +1,25 @@
+*{
+    margin: 1px;;
+    padding: 1px;;
+    box-sizing:border-box;
+
+}
+.extra{
+    border-radius: 100% 0% 0% 0%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 550px;
+    height: 450px;
+    background-color: brown;
+}
+.eu{
+    margin-top: 200px;
+    font-size: 30px;
+}
+.eu p{
+    left: 20px;
+    font-size: 25px;
+    margin: 20px 0;
+    max-width: 700px;
+}
